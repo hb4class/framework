@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 프레임워크
 
-You can use the [editor on GitHub](https://github.com/hb4class/framework/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+프레임워크는 어떠한 목적을 달성하기 위해 복잡하게 얽혀있는 문제를 해결하기 위한 구조이며, 소프트웨어 개발에 있어 하나의 뼈대 역할을 한다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 라이브러리와의 차이점
+라이브러리와 프레임워크를 헷갈리는 경우도 있는데, 보통 프레임워크라고 하면 클래스와 라이브러리가 합쳐진 형태라고 볼 수 있다.
 
-### Markdown
+메소드 및 클래스화, 즉 모듈화를 하는 이유 중 하나가 재사용성인데, 프레임워크는 이 재사용성을 큰 그룹 단위로 묶어주었다고 보면 된다. 재사용 가능한 수많은 클래스들과 라이브러리들을 융합한 채로 처음부터 제공해 주기 때문에, 여러 개의 표준을 만들지 않아도 돼서 개발자의 피곤함을 덜어준다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 스트럿츠
+[http://struts.apache.org/]
 
-```markdown
-Syntax highlighted code block
+### 스프링
+[https://spring.io/]
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hb4class/framework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
